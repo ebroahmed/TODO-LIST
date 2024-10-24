@@ -142,6 +142,7 @@ body {
   .todo-filters {
     align-items: center;
     display: flex;
+    margin-left: -1rem;
   }
 }
 
@@ -161,5 +162,6 @@ body {
   .todo-filters {
     align-items: center;
     display: flex;
+    margin-left: -1rem;
   }
 }
