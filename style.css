@@ -138,6 +138,8 @@ body {
   }
   .todo-filters {
     margin: 1rem 5.5rem;
+    align-items: center;
+    justify-content: space-between;
   }
 }
 
@@ -155,9 +157,7 @@ body {
     margin-left: 1.5rem;
   }
   .todo-filters {
-    margin: 1rem 4.5rem;
-  }
-  .filter {
-    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
 }
