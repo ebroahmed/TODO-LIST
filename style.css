@@ -7,7 +7,7 @@ body {
   width: 100%;
   min-height: 100vh;
   background-image: url("https://www.transparenttextures.com/patterns/batthern.png"),
-    linear-gradient(to right, #16222a, #3a6073);
+    linear-gradient(to bottom, #16222a, #3a6073);
 }
 
 .container {
