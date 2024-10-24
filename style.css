@@ -133,7 +133,7 @@ body {
   }
   .row {
     width: 295px;
-    margin-left: 4rem;
+    margin-left: 6rem;
   }
   .todo_list_items {
     width: 370px;
@@ -142,7 +142,7 @@ body {
   .todo-filters {
     align-items: center;
     display: flex;
-    margin-right: 3rem;
+    margin-left: 6rem;
   }
 }
 
@@ -153,7 +153,7 @@ body {
   }
   .row {
     width: 295px;
-    margin-left: 1rem;
+    margin-left: 4rem;
   }
   .todo_list_items {
     width: 370px;
@@ -162,6 +162,6 @@ body {
   .todo-filters {
     align-items: center;
     display: flex;
-    margin-right: 1rem;
+    margin-left: 6rem;
   }
 }
