@@ -98,7 +98,8 @@ body {
   outline: none;
   color: black;
   font-weight: 550;
-  margin-right: 1.5rem;
+  align-items: center;
+  justify-content: space-between;
   font-size: 1rem;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
