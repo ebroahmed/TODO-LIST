@@ -157,7 +157,7 @@ body {
   .todo-filters {
     margin: 1rem 4.5rem;
   }
-  .filter{
-    font-size:"0.6rem";
+  .filter {
+    display: flex;
   }
 }
